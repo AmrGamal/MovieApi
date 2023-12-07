@@ -20,8 +20,16 @@
 
 # To Run Project
 
-- Build and run using visual studio
-- 
+- Ensure that you have .NET Core SDK
+- git clone https://github.com/AmrGamal/MovieApi.git
+- cd MovieApi
+- dotnet build
+- dotnet run
+- Access API 
+	- GET /metadata/:movieId https://localhost:5001/metadata/3
+	- GET /movies/stats https://localhost:5001/movies/stats
+	- POST /metadata https://localhost:5001/metadata
+
 
 # Folder/Project Structure
 

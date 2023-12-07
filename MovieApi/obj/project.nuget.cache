@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKIGBwGQ3x5R8VdULbBXFNi4tWmxHvX96J5fdiVMwFc7R/YZRvTCaWKZbT+3ONCm+/gaeJBya5yLtn4rIxeaaA==",
+  "dgSpecHash": "ojC3Md+dMFHCnwKtt78H6J6mu6pHp83sovzZZ2T9yMPDp6QBcndSSRMLXMd8a7pT0PyzmDl0FbebV0kvWtYR9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amrmo\\Desktop\\MovieApi\\MovieApi\\MovieApi\\MovieApi.csproj",
+  "projectFilePath": "C:\\Users\\amrmo\\Desktop\\MovieApi\\MovieApi\\movieapi\\MovieApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,8 +13,6 @@ C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\MovieA
 C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.csproj.CoreCompileInputs.cache
 C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\staticwebassets\MovieApi.StaticWebAssets.Manifest.cache
-C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\staticwebassets\MovieApi.StaticWebAssets.xml
-C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\MovieApi.styles.css
 C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.RazorTargetAssemblyInfo.cache
 C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.dll
 C:\Users\amrmo\Desktop\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp3.1\MovieApi.pdb
